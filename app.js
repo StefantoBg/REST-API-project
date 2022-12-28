@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({
 app.use(express.static("public"));
 
 //connect to mongoDB
-mongoose.connect("mongodb://localhost:27017/wikiDB", {useNewUrlParser: true});
+mongoose.connect("mongodb+srv://admin-stefanobg:test123@todolist.1jth2cc.mongodb.net/wikiDB", {useNewUrlParser: true});
 //create table schema
 mongoose.set('strictQuery', true);
 const articleSchema = {
