@@ -3,11 +3,11 @@ requests for creating post with title and content .
 
 API documentation :
 
-GET -  localhost:3000/articles
-POST - localhost:3000/articles?title=&content=
-PUT - localhost:3000/articles/:title?title=&content= 
-PATCH localhost:3000/articles/:title?content= 
-DELETE localhost:3000/articles/:articleTitle   or just localhost:3000/articles to delete all. 
+GET -  localhost:3000/articles <br>
+POST - localhost:3000/articles?title=&content=<br>
+PUT - localhost:3000/articles/:title?title=&content= <br>
+PATCH localhost:3000/articles/:title?content= <br>
+DELETE localhost:3000/articles/:articleTitle<br><br>   or just <br>localhost:3000/articles to delete all. 
 
  
 npm install
