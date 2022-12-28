@@ -15,4 +15,4 @@ node app.js
 
 use Postman or CURL. 
 
-Check POSTMAN colection link 
+Check POSTMAN colection link https://api.postman.com/collections/14223648-53a7c852-9655-4cd2-bf9f-21d2a7791abc?access_key=PMAT-01GND0QVY8HA70RT197CSS88AE
